@@ -1,0 +1,36 @@
+Buat sebuah aplikasi berbasis web API menggunakan Go dengan request dan response JSON.
+
+Aplikasi yang dibuat memiliki functional:
+- create user,
+- update user,
+- get user by id, dan
+- list semua user.
+
+Data user yang perlu diinput meliputi:
+- nama user,
+- tanggal lahir,
+- no ktp,
+- pekerjaan, dan
+- pendidikan terakhir.
+
+Pekerjaan dan Pendidikan disediakan pilihan:
+- PNS,
+- Wirausaha,
+- Wiraswasta.
+
+Pendidikan terakhir disediakan pilihan:
+- SD,
+- SMP,
+- SMA,
+- Diploma,
+- Sarjana,
+- Magister,
+- Doktor.
+
+Seluruh field wajib diisi, validasi lainnya bisa kalian tambahkan sendiri supaya menyimpan data yang bersih. Pilihan penyimpanan data menggunakan MySQL atau PostgreSQL.
+
+Nilai bonus apabila ada admin panel menggunakan React untuk manage data user menggunakan API di atas.
+
+Hasil pekerjaan cukup diletakkan di Github pribadi, silakan cantumkan alamat repository yang digunakan.
+
+Tugas dikumpulkan paling lambat tanggal 1 Maret 2021 jam 12:00
